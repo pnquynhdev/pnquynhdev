@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning about JavaScript and ReactJS 🤣
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/phnhuquynh?tab=repositories)**
-- 📫 How to reach me **phnhuquynh98@gmail.com**
+- 📫 How to reach me **pnquynh.dev@gmail.com**
 <!-- - ⚡ Fun fact: I love to sing and play Cajón -->
 
 ## 🚀 Languages and Tools:
