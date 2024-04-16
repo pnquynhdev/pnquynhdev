@@ -36,12 +36,12 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=phnhuquynh">
+    <img src="https://komarev.com/ghpvc/?username=pnquynh">
 </a>
-<a href="https://github.com/phnhuquynh?tab=followers"><img src="https://img.shields.io/github/followers/phnhuquynh?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/pnquynh?tab=followers"><img src="https://img.shields.io/github/followers/pnquynh?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <!--
-**phnhuquynh/phnhuquynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pnquynh/pnquynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
